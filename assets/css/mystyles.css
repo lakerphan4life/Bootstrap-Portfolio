@@ -1,0 +1,198 @@
+
+
+html
+{
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+header
+{
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	border-bottom: 3px solid #ddd;
+	margin-bottom: 30px;
+
+}
+
+
+body
+{
+	background-color: #ededed;
+	height: auto;
+	background-image: url("https://www.transparenttextures.com/patterns/cartographer.png");
+}
+
+footer
+{
+	border-top: 3px solid #4aaaa5;
+	background-color: #666;
+	padding-bottom: 40px;
+	padding-top: 20px;
+	text-align: center;
+	color: #ccc;
+	margin-top: 30px;
+}
+
+/*name box*/
+
+.name
+{
+	width: 100%;
+	color: white;
+	text-align:center; 
+	padding-bottom:10px;
+	font-family: "Georgia";
+}
+
+
+
+.name-box
+{
+
+	padding-bottom: 6px;
+	background-color: #4aaaa5;"
+}
+
+/* big container left side*/
+.main-content
+{
+	margin-left: 15px;
+	font-size: 18px; 
+}
+
+.big-container
+{
+	background-color: white;
+	border: 1px solid #666;
+	padding-bottom: 15px;
+}
+
+.about-connect
+{
+	margin-left: 15px;
+	margin-bottom: 25px;
+	border-bottom: 3px solid #666;
+	padding-bottom: 15px;
+	margin-right: 10px;
+	font-family: "Georgia";
+	color: #4aaaa5;
+}
+
+
+
+/*nav stuff*/
+
+nav
+{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: #999;
+}
+
+.top-menu
+{
+
+}
+
+.aboutBtn
+{
+	padding: 0 20px;
+	border-right: 1px solid #666;
+	color: #999;
+	font-size: 18px;
+}
+.portfolioBtn
+{
+	padding: 0 20px;
+	border-right: 1px solid #666;
+	color: #999;
+	font-size: 18px;
+}
+.contactBtn
+{
+	padding: 0 20px;
+	color: #999;
+	font-size: 18px;
+} 
+
+.auth-image
+{
+float: left;
+}
+
+
+/*connect with me box*/
+.social-icons
+{
+	text-align: center;
+	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%
+}
+
+.social
+{
+	padding: 5px;
+	width: 30%;
+}
+
+.right-container
+{
+	background-color: white;
+	border: 1px solid #666;
+	max-width: 650px;
+}
+
+
+/* PORTFOLIO PAGE*/
+.work {
+  position: relative;
+  width: 274px;
+  overflow: auto;
+  float: left;
+  margin: 20px 0px;
+}
+
+.work:nth-child(even) {
+  margin-right: 40px;
+  margin-left: 20px;
+}
+
+.work img {
+  width: 100%;
+  border: 0 none;
+  opacity: .8;
+}
+
+.work h3 {
+  position: absolute;
+  bottom: 20px;
+  margin-bottom: 0;
+  padding: 15px;
+  width: 100%;
+  color: #fff;
+  text-align: center;
+  line-height: 30px;
+  font-weight: 300;
+  background: #4aaaa5;
+  border-bottom: 0;
+}
+
+
+
+/*CONTACT PAGE*/
+form
+{
+	margin: 20px;
+}
+
+.btn-primary
+{
+	background-color: #4aaaa5;
+}
